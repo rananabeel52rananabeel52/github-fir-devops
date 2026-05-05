@@ -1,9 +1,11 @@
+"""Simple demo module."""
+
+
 def my_function():
-    a = 13
+    """Return the sum of two numbers."""
+    a = 18
     b = 15
-    c = a + b
-    password = "svv"
-    return c + password
+    return a + b
 
 
 my_function()
