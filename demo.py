@@ -1,5 +1,5 @@
 def my_function():
-    a = 10
+    a = 15
     b = 15
     c = a + b
     password = "svv"
